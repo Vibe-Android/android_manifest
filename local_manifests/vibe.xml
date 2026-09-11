@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote
+        name="vibe"
+        fetch="https://github.com/Vibe-Android"
+        revision="lineage-23.2" />
+</manifest>
